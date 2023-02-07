@@ -1,16 +1,11 @@
-# IPFS Storage
+This is a decentralized dropbox project that Serves alternatively to the IPFS storage system.
 
-## Prerequsite
-  install ipfs for desktop
-  run npm install
+Kindly access the project by firstly installing IPFS, truffle, and ganache.
 
-## Usage
-  Start the react dev server.
+After pulling repo, in the parent folder run 'npm install'.
+in the contract folder run truffle compile, then run truffle migrate. ensure u have truffle installed.
+in the client folder, run npm start to start the server. visi localhost:5000 in your browser
 
-```sh
-$ cd client
-$ npm start
-  Starting the development server...
-```
+
 
 
